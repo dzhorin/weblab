@@ -56,6 +56,5 @@
             </td>
         </tr>
     </table>
-    <hr width="1300">
     </body>
     </html> 
