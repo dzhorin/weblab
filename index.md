@@ -20,6 +20,10 @@
                 <a href="hobbies.html">Мої хоббі</a>
                 <a href="contacts.html">Мої контакти</a>
             </center>
+            </td>
+        </tr>
+        <tr>
+            <td>
             <center><h2>Contact me</h2></center>
             <form action="mailto:6931896@stud.nau.edu.ua" method="post" enctype="text/plain" id="forma">
                 <p>Your name: <input type="text" id="name"></p>
