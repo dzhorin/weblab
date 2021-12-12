@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <center><img src="photo.jpg" width="250" height="275"></center>
     <table border="1" align="center">
-        <center><img src="photo.jpg" width="250" height="275"></center>
         <tr>
         <td>
             <h1> <strong>Короткі відомості:</strong> </h1>
