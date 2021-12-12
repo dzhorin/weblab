@@ -1,0 +1,28 @@
+body {
+  background: lightblue;
+}
+
+a {
+  color: red;
+}
+
+hr {
+  border: none;
+}
+hr::before {
+  content: "*******";
+  display: block;
+  text-align: center;
+  color: red;
+  height: 10px;
+  background: black;
+  margin-bottom: 10px;
+}
+
+#Text {
+  font-weight: 50px;
+  line-height: 14px;
+  font-variant: small-caps;
+  font-style: italic;
+  text-decoration: line-through;
+}
