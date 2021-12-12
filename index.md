@@ -14,8 +14,6 @@
             <p>Жорін Даниїл</p><br>
             <p>Студент <i> <a href="https://nau.edu.ua">Національного Авіаційного Університету</a></i><br></p>
         </td>
-        </tr>
-        <tr>
         <td colspan="2">
             <center><h2>Посилання</h2></center>
             <center>
