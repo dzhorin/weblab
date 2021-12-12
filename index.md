@@ -34,8 +34,6 @@
                 <input type="submit" style="color: red;" id="enter">
             </form>
         </td>
-        </tr>
-        <tr>
             <td colspan="2">
                 <h2><center>Skills</center></h2>
                 <table border="1">
